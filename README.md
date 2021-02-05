@@ -1,7 +1,7 @@
 # ASD227WeekFive
 Steps to follow:
 1. Fork Repsitory.
-2. clone respitory to your Xcode.
+2. Clone respitory into your Xcode.
 3. Debug and make work.
 
 Items to add to Application:
